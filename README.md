@@ -1,16 +1,26 @@
-# food_app_ui
+# 🍔 Food App UI
+A modern and stylish Flutter-based Food App UI designed to showcase dynamic theming (light/dark mode), responsive design, and seamless navigation across pages. Perfect for food delivery apps, restaurant showcases, or your next Flutter project!
 
-A new Flutter project.
 
-## Getting Started
+# ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🌗 Dynamic Theming: Toggle between light and dark modes with real-time UI updates.
+  
+- 🍕 Interactive UI: Beautifully designed food categories and popular items sections.
+  
+- 📄 Details Page: Highlight individual food items with rich details and favorite toggling.
+  
+- 🛠️ Flutter BLoC Integration: Smooth state management with flutter_bloc.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 🛠️ Built With
+- Flutter: Framework for building cross-platform applications.
+  
+- Bloc: State management for dynamic and efficient UI updates.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 📷 App Images
+
+Below are sample images of the app in action. Add your screenshots here to display the app’s features effectively:
+
+Home Page
+<img src="assets/sceenshots/home.png" width="300">
