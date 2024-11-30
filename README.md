@@ -23,5 +23,4 @@ A modern and stylish Flutter-based Food App UI designed to showcase dynamic them
 Below are sample images of the app in action. Add your screenshots here to display the app’s features effectively:
 
 Home Page
-
-<img src="assets\sceenshots\home.png" width="300">
+<img src="assets/sceenshots/home.png" width="300">
